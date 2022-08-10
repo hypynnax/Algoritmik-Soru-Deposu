@@ -1,0 +1,1 @@
+Dışardan alınan sayının faktöriyelini hesaplar(faktoriyel metodu rekürsif (kendi içinde kendini çağıran) yapıdadır).

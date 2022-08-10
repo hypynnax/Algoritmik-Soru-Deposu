@@ -1,0 +1,1 @@
+Girilen gün ve alınan ilerleme sayısı ile kaç gün sonrası olacağını hesaplayan program.

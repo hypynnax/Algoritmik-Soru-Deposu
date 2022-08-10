@@ -1,0 +1,1 @@
+Aranan veriyi optimize bir şekilde bulan bir bilgisayar algoritması.

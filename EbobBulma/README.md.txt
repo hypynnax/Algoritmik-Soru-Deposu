@@ -1,0 +1,1 @@
+Matematikteki ebob(en büyük ortak bölen) işlemi.

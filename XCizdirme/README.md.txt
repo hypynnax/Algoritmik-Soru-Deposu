@@ -1,0 +1,1 @@
+Dışardan alınan sayı büyüklüğünde "x"lerden oluşan bir x çizdirme işlemi yapar.

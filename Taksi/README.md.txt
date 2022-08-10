@@ -1,0 +1,1 @@
+Girilen taksi rengi ve gidilen yol ile 2022 yılı güncel taksimetre hesabı yapar.

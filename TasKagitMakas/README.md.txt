@@ -1,0 +1,1 @@
+Oyuncunun seçtiği ve bilgisayarın rastgele seçtiği nesneye göre bilgisayarla taş kağıt makas oynatan program.

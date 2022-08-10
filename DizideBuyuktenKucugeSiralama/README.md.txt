@@ -1,0 +1,1 @@
+Verilmiş olan dizi içindeki elemanları büyükten küçüğe sıralar(Arrays.sort(dizi) kodunun tersi)(sondaki for döngüsü for-each döngüsüdür otomatik olarak verilen diziyi tüm elemanları ile yazdırma görevindedir).

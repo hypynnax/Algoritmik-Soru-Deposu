@@ -1,0 +1,1 @@
+Dışardan teker teker alınan 5 sayı arasından en büyük ikinci sayıyı bulur(for döngüsünde sınırı arttırarak alınan eleman sayısını arttırabilirsiniz).

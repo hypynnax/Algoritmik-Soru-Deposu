@@ -1,0 +1,1 @@
+Girilen boy ve kilo verilerini gerekli şekilde işleme sokarak vücut kitle indeksini hesaplayan program.

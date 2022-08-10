@@ -1,0 +1,1 @@
+Dışardan alınan sifre uzunluğunda rastgele bir şifre üreten program.

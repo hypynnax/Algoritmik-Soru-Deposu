@@ -1,0 +1,1 @@
+Verilen çift boyutlu dizi içindeki yolu (1'ler yol, 0'lar boşluk) bulan program.

@@ -1,0 +1,1 @@
+Dışardan giridi olarak verilen sayıya kadar olan asal sayıları çıktı olarak verir.

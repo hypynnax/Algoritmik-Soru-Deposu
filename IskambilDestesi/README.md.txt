@@ -1,0 +1,1 @@
+Bilinen iskambil destesindeki tüm kağıtları oluşturan ve rastgele karan ve ekrana yazdıran program.

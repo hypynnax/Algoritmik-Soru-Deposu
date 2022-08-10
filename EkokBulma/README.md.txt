@@ -1,0 +1,1 @@
+Matematikteki ekok(en küçük ortak kat) işlemi.

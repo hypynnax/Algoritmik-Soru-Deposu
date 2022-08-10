@@ -1,0 +1,1 @@
+Girilen cinsiyet ve adım sayısı ile yakılan kalori miktarını hesaplar.

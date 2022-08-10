@@ -1,0 +1,1 @@
+1-99 arası yazılan sayıyı yazıya dönüştürür.

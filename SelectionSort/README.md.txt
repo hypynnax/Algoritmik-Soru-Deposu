@@ -1,0 +1,1 @@
+Kendisine verilen diziyi küçükten büyüğe sıralama yapan bir sıralama algoritması.

@@ -1,0 +1,1 @@
+Girilen sayıyı decimalden binarye dönüştürür.

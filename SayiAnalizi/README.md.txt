@@ -1,0 +1,1 @@
+Alınan sayının (basamak sayısını, tek rakamlarının toplamını, çift rakamlar toplamını, tek ve çift rakamlar toplamlarının mutlak farkını) analizini yapar.

@@ -1,0 +1,1 @@
+Rastgele oluşturulmuş bir sınav cevap kağadı ve rastgele oluşturulmuş öğrenci cevaplarını karşılaştırarak her öğrencinin sınav sonucunu hesaplayan program.

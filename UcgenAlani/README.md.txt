@@ -1,0 +1,1 @@
+3 tarafı alınan üçgenin alanını hesaplayan program.

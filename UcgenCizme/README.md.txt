@@ -1,0 +1,1 @@
+Alınan yükseklikte *'lardan oluşan bir uçgen çizen programın java kodu.

@@ -1,0 +1,1 @@
+1'den 60'a kadar olan sayıları rastgele 1000000 (milyon) kere oluşturan ve bu oluşturulan sayıları ilk önce bir map içerisinde kaç defa geldiği ile birlikte tuttuktan sonra bir liste içinde her sayıyı tekrar etme sayısı kadar listeye ekleyen ve bir set yapısı kullanarak rastgele 10 sayıyı küçükten büyüğe ekrana yazan program.

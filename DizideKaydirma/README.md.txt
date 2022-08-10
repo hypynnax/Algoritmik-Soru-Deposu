@@ -1,0 +1,1 @@
+Dışardan girdi olarak alınan sayı kadar dizi içindeki elemanları saat yönünde kaydırır(sondaki for döngüsü for-each döngüsüdür otomatik olarak verilen diziyi tüm elemanları ile yazdırma görevindedir).

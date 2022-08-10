@@ -1,0 +1,1 @@
+Alınan sayı tek ise sayıyı 8'lik tabana, çift ise 2'lik tabana çevirir.

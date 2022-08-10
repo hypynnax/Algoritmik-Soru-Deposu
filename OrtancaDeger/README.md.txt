@@ -1,0 +1,1 @@
+Girdi olarak verilen kelime içindeki orta değeri bulan program(tek sayıda ise ortanca karekter, çift sayıda ise ortadaki iki karekter gelir).

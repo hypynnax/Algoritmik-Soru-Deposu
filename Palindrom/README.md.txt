@@ -1,0 +1,1 @@
+Yazılan kelimenin palindrom olup olmadığını kontrol eder(palindrom bir kelimenin sağından ve solundan aynı olmasıdır).

@@ -1,0 +1,1 @@
+Dışardan parametre olarak alınan sayılarla 2 boyutlu bir matris oluşturulması ve bu matrisin sağdan, soldan çapraz verilerin toplamı ve matrisin yazdırılmasını sağlayan program.

@@ -1,0 +1,1 @@
+Girilen şifrenin belirlenen özellikleri (en az 8 karekterden oluşması, en az iki sayı olması, yalnızca sayı ve harflerden oluşması) karşılayıp karşılamadığını inceleyen program.

@@ -1,0 +1,1 @@
+Girilen metin içinde aranan kelimenin bulunduğu yerler ve kaç defa geçtiğini bulan program.

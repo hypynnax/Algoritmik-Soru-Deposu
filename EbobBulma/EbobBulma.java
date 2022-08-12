@@ -10,15 +10,17 @@ public class EbobBulma {
         int birinciSayi = reader.nextInt();
         System.out.print("İkinci sayıyı girin : ");
         int ikinciSayi = reader.nextInt();
-        int ebob = Integer.min(birinciSayi, ikinciSayi);
-        while (ebob <= Integer.max(birinciSayi, ikinciSayi)) {
-            if (birinciSayi % ebob == 0 && ikinciSayi % ebob == 0) {
-                System.out.println(birinciSayi + " ve " + ikinciSayi + " sayılarının ebobu : " + ebob);
-                return;
-            } else {
-                ebob++;
+        int bolen = 2, ebob = 1;
+        while (bolen <= Integer.min(birinciSayi, ikinciSayi)) {
+            if (birinciSayi % bolen == 0 && ikinciSayi % bolen == 0) {
+                ebob = bolen;
             }
+	    bolen += 1;
         }
-        System.out.println(birinciSayi + " ve " + ikinciSayi + " sayıları aralarında asaldır.");
+        if (ebob == 1) {
+            System.out.println(birinciSayi + " ve " + ikinciSayi + " aralarında asal");
+        } else {
+            System.out.println(ebob);
+        }
     }
 }

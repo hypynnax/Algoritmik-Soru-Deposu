@@ -1,1 +1,1 @@
-Dışardan alınan ad ve soyadı 12'ye tamamlayacak ve adı kare biçiminde soyadı ise u şeklinde yazdıran program.
+Dışardan alınan ad ve soyadı 12'ye tamamlayacak ve adı * ile kare biçiminde soyadı ise + ile u şeklinde yazdıran program.

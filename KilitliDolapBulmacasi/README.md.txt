@@ -1,0 +1,4 @@
+Öğrencilerin hepsi okul başlamadan önce buluşup, sıraya giriyor. Daha sonra sıranın en başındaki öğrenci koridorda yürüyor ve bütün dolapları açıyor. Baştan ikinci sırada 
+bulunan öğrenci, ikinci dolaptan başlayarak açık olan her çift numaralı dolabı kapatıyor. Sonrasındaki üçüncü sıradaki öğrenci üçüncü dolaptan başlayarak üçün katı olan 
+dolapları açıksa kapatıyor, kapalıysa açıyor. Dördüncü öğrenci, dört numaralı dolaptan başlayarak dördün katları için de aynı şeyi yapıyor. Bu biçimde 100 numaralı 
+öğrenciye kadar bu oyunu oynamaya devam ediyorlar. Müdür sabahın ilerleyen saatlerinde okula geldiğinde, hangi dolapları açık bulacak dersiniz?

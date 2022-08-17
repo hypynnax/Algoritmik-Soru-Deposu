@@ -15,4 +15,5 @@ def en_buyuk_ikinci_sayiyi_bul():
 
     print("En büyük ikinci sayı = {}".format(en_buyuk_ikinci_sayi))
 
+
 en_buyuk_ikinci_sayiyi_bul()

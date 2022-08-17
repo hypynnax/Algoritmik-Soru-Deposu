@@ -13,4 +13,5 @@ def ebob_bul(birinci_sayi, ikinci_sayi):
     else:
         print(ebob)
 
+
 ebob_bul(int(input("Bir sayi girin : ")), int(input("Bir sayi girin : ")))

@@ -8,4 +8,5 @@ def faktoriyel(sayi):
 
     return faktoriyel
 
+
 print(faktoriyel(int(input("Bir sayı girin : "))))

@@ -1,5 +1,6 @@
 import random
 
+
 def mayin_tarlasi_hazirlama(en, boy):
 
     arena = [[0 for x in range(en)]for y in range(boy)]
@@ -10,6 +11,7 @@ def mayin_tarlasi_hazirlama(en, boy):
             arena[y][x] = rastgele
 
     return arena
+
 
 def oyuna_basla(arena):
 
@@ -27,5 +29,6 @@ def oyuna_basla(arena):
         else:
             print("Boooom\nPuanın : {}".format(puan))
             oyun_sonu = True
+
 
 oyuna_basla(mayin_tarlasi_hazirlama(int(input("En bilgisini girin : ")),int(input("Boy bilgisini girin : "))))

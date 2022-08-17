@@ -1,5 +1,6 @@
 import random
 
+
 def iskambil_destesi():
 
     simge = ["MAÇA", "KUPA", "KARO", "SİNEK"]
@@ -19,5 +20,6 @@ def iskambil_destesi():
         sira_simge = int(deste[i] / 13)
         sira_sayi = int(deste[i] % 13)
         print("{} {}".format(simge[sira_simge], sayi[sira_sayi]))
+
 
 iskambil_destesi()

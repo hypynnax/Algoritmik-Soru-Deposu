@@ -1,6 +1,7 @@
 import random
 import string
 
+
 def sifre_uretme(uzunluk = 21):
 
     sifre = ''
@@ -10,5 +11,6 @@ def sifre_uretme(uzunluk = 21):
         sifre += random.choice(karakterler)
 
     return sifre
+
 
 print(sifre_uretme(int(input("Şifre uzunluğu girin : "))))

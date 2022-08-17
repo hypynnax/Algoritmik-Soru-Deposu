@@ -13,4 +13,5 @@ def kalori_hesaplama():
     else:
         print("Geçerli bir cinsiyet girilmedi")
 
+
 kalori_hesaplama()

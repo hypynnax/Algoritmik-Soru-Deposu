@@ -1,5 +1,6 @@
 import random
 
+
 def matris_analizi():
 
     matris = [[0 for x in range(10)]for y in range(10)]
@@ -20,5 +21,6 @@ def matris_analizi():
                 sagdan_capraz_toplam += matris[i][j]
 
     print("Soldan çarpaz toplam : {}\nSağdan çapraz toplam : {}".format(soldan_capraz_toplam, sagdan_capraz_toplam))
+
 
 matris_analizi()

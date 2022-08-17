@@ -9,4 +9,5 @@ def metin_tarama(hedef_metin, aranan_kelime):
 
     print("{} aranan metin içinde {} defa geçmektedir.".format(aranan_kelime, toplam_gecme_sayisi))
 
+
 metin_tarama(input("Tarama yapılacak metni girin : "), input("Aranan kelimeyi girin : "))

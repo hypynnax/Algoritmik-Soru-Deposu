@@ -18,4 +18,5 @@ def havali_isim(isim, soyisim):
     print(soyisim[2] + "    " + soyisim[9]);
     print(soyisim[3:9]);
 
+
 havali_isim(input("İsminizi girin : "), input("Soyisminizi girin : "))

@@ -14,4 +14,5 @@ def taban_donusturme():
 
     return donusturulmus_sayi
 
+
 print(taban_donusturme())

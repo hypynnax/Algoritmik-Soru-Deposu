@@ -26,8 +26,10 @@ def duzensiz_arttirma():
             else:
                 yon = True
                 artirma += 1
+
         toplam += sayi
 
     return toplam
+
 
 print(duzensiz_arttirma())

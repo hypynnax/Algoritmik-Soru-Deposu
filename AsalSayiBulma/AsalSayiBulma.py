@@ -12,4 +12,5 @@ def asal_sayilari_yazdir(sayi):
         if halen_asal == True:
             print(i, end=", ")
 
+
 asal_sayilari_yazdir(int(input("Bir sayı girin : ")))

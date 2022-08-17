@@ -1,5 +1,6 @@
 import random
 
+
 def tas_kagit_makas():
 
     envanter = ['Taş', 'Kağıt', 'Makas']
@@ -29,5 +30,6 @@ def tas_kagit_makas():
             print("Berabere")
     else:
         print("Geçerli bir sayı girmediniz")
+
 
 tas_kagit_makas()

@@ -9,4 +9,5 @@ def ekok_bul(birinci_sayi, ikinci_sayi):
         else:
             ekok += 1
 
+
 ekok_bul(int(input("Bir sayi girin : ")), int(input("Bir sayi girin : ")))

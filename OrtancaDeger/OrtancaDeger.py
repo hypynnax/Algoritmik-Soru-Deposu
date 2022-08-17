@@ -8,4 +8,5 @@ def ortanca_deger(kelime):
     else:
         print(kelime[orta_deger])
 
+
 ortanca_deger(input("Bir kelime girin : "))

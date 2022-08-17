@@ -17,9 +17,9 @@ def binary_search(liste, aranan_sayi):
             ust_sinir = orta_deger - 1
         else:
             alt_sinir = orta_deger + 1
-
     else:
         print("Eleman bulunamadı")
+
 
 liste = [19, 28, 37, 46, 55, 64, 73, 82, 91]
 binary_search(liste, 82)

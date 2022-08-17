@@ -12,8 +12,10 @@ def takis_metre():
     def siyah_taksi(km):
         print(siyah_indi_bindi + (km * siyah_km_ucreti))
 
+
     def turkuaz_taksi(km):
         print(turkuaz_indi_bindi + (km * turkuaz_km_ucreti))
+
 
     def sari_bordo_taksi(km):
         print(sari_bordo_indi_bindi + (km * sari_bordo_km_ucreti))
@@ -29,5 +31,6 @@ def takis_metre():
         sari_bordo_taksi(kat_edilen_km)
     else:
         print("Geçerli bir taksi rengi girmediniz")
+
 
 takis_metre()

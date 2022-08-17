@@ -13,4 +13,5 @@ def makine_calisma_sureleri(ay, makine_sayisi):
         print("{}. makinenin çalışma süresi = {}".format((i+1), calisma_suresi))
         calisma_suresi -= calisma_arasi
 
+
 makine_calisma_sureleri(int(input("İçinde bulunduğunuz ayı girin : ")), int(input("Bulunan makine sayısını girin : ")))

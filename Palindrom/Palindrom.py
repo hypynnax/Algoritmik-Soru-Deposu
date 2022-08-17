@@ -11,4 +11,5 @@ def palindrom_mu(kelime):
     else:
         print("{} palindrom değildir.".format(kelime))
 
+
 palindrom_mu(input("Bir kelime girin : "))

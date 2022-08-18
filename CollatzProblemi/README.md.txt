@@ -1,0 +1,3 @@
+Bu 3n+1 problemi yada diğer adıyla collatz problemi olarak geçen problemin sağlamasını yapmaktadır. Bahsi geçen problemi hiç duymayanlar için şöyleki
+eğer sayınız çift ise 2’ye bölün, tek ise 3 ile çarpıp 1 ekleyin. Sonra, sonucunuza yine aynı kuralı uygulayın. Bu işlemi istediğiniz kadar tekrar edin.
+Göreceksiniz ki hangi sayıyla başlarsanız başlayın sayılar eninde sonunda 4, 2, 1, 4 … döngüsüyle devam edecek.

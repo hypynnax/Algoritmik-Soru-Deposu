@@ -1,0 +1,1 @@
+0 ile 12 arasındaki tüm sayıları belli sorular sorarak bilen bir tahmin oyunu.

@@ -1,0 +1,1 @@
+Girilen metni şifrelemeye ve şifreli girilen metni çözümlemeye yarayan basit bir şireleme programı.

@@ -1,0 +1,1 @@
+Bilinen adam asmaca oyunudur.(Türkçe karakterlere duyarsız olmasından dolayı sadece ingilizce harflerle oynamanız tavsiye edilir.)
